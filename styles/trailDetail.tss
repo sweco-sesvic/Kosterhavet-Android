@@ -1,0 +1,18 @@
+"Window" : {
+backgroundColor : 'white'
+}
+
+".container" : {
+	top : 20,
+	layout : 'vertical',
+	backgroundColor: 'white'
+  
+}
+
+"#menuView": {
+	layout : 'horizontal',
+	bottom: 0,
+	height: Titanium.UI.SIZE,
+	width: Ti.UI.FILL,
+	backgroundColor: 'transparent'
+}

@@ -1,0 +1,23 @@
+".container": {
+	backgroundColor : '#fff',
+	layout: 'vertical'
+}
+
+"#noMap": {
+	top: 20,
+	backgroundColor: "transparent",
+	left: 5
+}
+
+"#mapView": {
+	height : Titanium.UI.FILL,
+	width : Titanium.UI.FILL
+}
+
+"#menuView": {
+	layout : 'horizontal',
+	bottom: 0,
+	height: Titanium.UI.SIZE,
+	width: Ti.UI.FILL,
+	backgroundColor: 'transparent'
+}
